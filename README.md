@@ -1,0 +1,1 @@
+# fashion_mnist_with_full_connected_neural_network
